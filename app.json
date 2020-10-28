@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Sugestões de jogos lotéricos",
+    "slug": "jogos-loteria",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon3.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#363636"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
